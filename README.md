@@ -1,2 +1,2 @@
-# CSharp_Baslag-c-bitis-artis
+# CSharp_Baslagic-bitis-artis
 Kullanıcıdan alınan başlangıç ve artış ile bitişe ulaşma
